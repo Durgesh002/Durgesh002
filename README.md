@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-Driven **Network Engineer & Systems Administrator** with hands-on experience managing enterprise storage protocols, Linux operating systems, and network infrastructure. Passionate about solving complex system diagnostic puzzles, analyzing protocol behavior, and continuously building scalable systems. 
+Driven **Network Engineer & Systems Administrator** with hands-on experience managing storage incidents, Linux operating systems, and network infrastructure. Passionate about solving complex system diagnostic puzzles, analyzing protocol behavior, and continuously building scalable systems. 
 
 🛠️ **Current Focus:** Deep-diving into **DevOps & Site Reliability Engineering (SRE)** practices, container networking, and infrastructure automation.
 
